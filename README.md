@@ -14,7 +14,7 @@ Cette application interactive de prise de notes est construite avec **React** et
 Cloner le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/note-taking-app.git
+git clone https://github.com/Ulrik-git/Note-Taking-App
 cd note-taking-app
 ```
 Installer les dépendances :
